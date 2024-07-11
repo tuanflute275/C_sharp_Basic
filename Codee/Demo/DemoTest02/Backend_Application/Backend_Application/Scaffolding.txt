@@ -1,0 +1,1 @@
+﻿Scaffolding-DbContext "server=KHACCTHIENN\\SQLEXPRESS;database=Demo_Test_ASP_01;uid=sa;pwd=1234$;MultipleActiveResultSets=True;Trusted_Connection=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
